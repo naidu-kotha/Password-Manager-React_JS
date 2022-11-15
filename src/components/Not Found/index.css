@@ -1,0 +1,15 @@
+.no-pwd-heading {
+  font-weight: bold;
+  font-family: 'roboto';
+  font-size: 24px;
+  color: #ffffff;
+}
+.no-pwd-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-pwd-img {
+  width: 100%;
+}
